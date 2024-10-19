@@ -1,0 +1,13 @@
+
+
+I recently developed a command-line To-Do List application using TypeScript and the readline module. The app allows users to:
+
+. Add tasks to the list
+. Remove tasks by specifying their index
+. Mark tasks as completed
+. View all tasks with completion status
+. The core functionality is built around object-oriented programming principles with a simple user interface. This app runs in a continuous loop, handling commands like add, remove, complete, and view in real time. 💡
+
+ Building this project has strengthened my TypeScript skills, especially working with custom types, classes, and input/output handling.
+
+Check out the code !!

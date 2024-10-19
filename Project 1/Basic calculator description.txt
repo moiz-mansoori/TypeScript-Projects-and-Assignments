@@ -1,0 +1,17 @@
+🔢 Basic Command-Line Calculator using TypeScript 🔢
+
+I recently built a Basic Calculator application using TypeScript and the readline module. This interactive command-line tool allows users to perform basic arithmetic operations, including:
+
+Addition
+Subtraction
+Multiplication
+Division
+Key features include:
+
+User-friendly input prompts for names, operations, and numbers.
+Input validation to ensure only valid operations and numbers are processed.
+Error handling for cases like division by zero.
+The option to perform multiple calculations in one session.
+Developing this project sharpened my TypeScript skills, particularly in input handling, data validation, and user interaction. 💻
+
+Check out the code!!
